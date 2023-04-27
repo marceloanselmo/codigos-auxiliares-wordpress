@@ -1,5 +1,5 @@
 <h1 align="center">Repositório de códigos</h1>
-<p align="center">Para<strong>facilitar </strong> a nossa vida!</p>
+<p align="center">Para<strong> facilitar </strong> a nossa vida!</p>
 
 ##1 alt-gen: gera alt text automaticamente;
 
@@ -29,7 +29,7 @@
 ##10 upload-svg: função que permite realizar  upload de imagens no formato svg;
 
 
-<h2>Para deixar o código organizado, basta criar uma pasta com nome inc ou custom-functions. E depois é só colocar o caminho das funções em function.php:</h2>
+<h4>Para deixar o código organizado, basta criar uma pasta com nome inc ou custom-functions. E depois é só colocar o caminho das funções em function.php:</h4>
 
 
 require get_template_directory() . '/inc/auto-attribute-img.php'; <br>
